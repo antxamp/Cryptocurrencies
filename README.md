@@ -14,11 +14,28 @@ So, they’ve asked me to create a report that includes what cryptocurrencies ar
 #### Deliverable 4: Visualizing Cryptocurrencies Results
 
 
-## Results from all Deliverables:
+## Snapshots from each Deliverable:
+### Deliverable 1: Preprocessing the Data for PCA
 
-   ![image](https://github.com/antxamp)
+   ![image](https://github.com/antxamp/Cryptocurrencies/blob/main/Resources/deliverable_1.PNG)
+
+### Deliverable 2: Reducing Data Dimensions Using PCA
+
+   ![image](https://github.com/antxamp/Cryptocurrencies/blob/main/Resources/deliverable_2.PNG)
+   
+### Deliverable 3: Clustering Cryptocurrencies Using K-means
+
+   ![image](https://github.com/antxamp/Cryptocurrencies/blob/main/Resources/deliverable_3.PNG)
+   
+### Deliverable 4: Visualizing Cryptocurrencies Results
+
+   ![image](https://github.com/antxamp/Cryptocurrencies/blob/main/Resources/deliverable_4a.PNG)
+   
+   ![image](https://github.com/antxamp/Cryptocurrencies/blob/main/Resources/deliverable_4b.PNG)
+   
+   ![image](https://github.com/antxamp/Cryptocurrencies/blob/main/Resources/deliverable_4c.PNG)
 
 
  
 ### Summary:
- 
+** Summary not required in module challenge.  
